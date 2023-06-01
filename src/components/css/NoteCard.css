@@ -1,0 +1,13 @@
+.card {
+  margin: 1rem;
+  width: 300px;
+}
+
+.cardContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  margin-top: 1rem;
+}
